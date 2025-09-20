@@ -11,7 +11,7 @@ With this code, you can recursively replace content in files by simply passing t
 git clone https://github.com/mitvix/replacestringgo.git
 cd replacestringgo
 go build -o replacestring main.go
-sudo cp replacestring /usr/local/bin/bash
+sudo cp replacestring /usr/local/bin/replacestring
 ```
 ## Usage: 
 ```
