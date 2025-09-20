@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-// var i used count total files
+// var i used to count total files
 // var c used to count total files changed
 var i, c int = 0, 0
 
