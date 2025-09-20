@@ -1,9 +1,10 @@
 # Replace String in Go
-This is a port in Golang of old replacestring.sh written originally in shell.
+This is a port in Go of an old replacestring.sh script, originally written in shell. 
+The Go version has the same functionality but without dependencies on GNU tools like sed, xargs, and findutils. 
+This provides the flexibility to run on other platforms, such as Windows or macOS. 
 
-In this Go version we have the same funcionality but without dependencies of GNU Tools like sed, xargs and findutils and with the flexibility to run in another platforms, like Win or Mac.
-
-With this code it's possible replace content in files recursively, you just need pass the text that you are looking for and the text used to exchange.
+## What I can do
+With this code, you can recursively replace content in files by simply passing the text you're looking for and the replacement text
 
 ## Configure
 ```
