@@ -18,6 +18,13 @@ sudo cp replacestring /usr/local/bin/bash
 Usage: replacestring <path> <old_string> <new_string>
 ```
 
+## Dependences
+
+- a computer
+- golang 1.22 or higher
+- no external packages is needed
+- and coffee
+
 This is a Open Source software, please share! 
 
 that's all folks
